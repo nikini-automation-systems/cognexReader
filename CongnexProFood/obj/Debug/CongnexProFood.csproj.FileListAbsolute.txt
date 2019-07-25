@@ -1,0 +1,7 @@
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\bin\Debug\CongnexProFood.exe.config
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\bin\Debug\CongnexProFood.exe
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\bin\Debug\CongnexProFood.pdb
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\obj\Debug\CongnexProFood.csprojAssemblyReference.cache
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\obj\Debug\CongnexProFood.csproj.CoreCompileInputs.cache
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\obj\Debug\CongnexProFood.exe
+C:\Cognex\Profoods_Cognex App\CongnexProFood\CongnexProFood\obj\Debug\CongnexProFood.pdb
